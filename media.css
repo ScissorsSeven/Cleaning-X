@@ -1,0 +1,12 @@
+@media screen and (max-width: 992px) {
+    .home-main-title {
+        padding-top: 50px;
+    }
+    .call-action {
+        justify-content: center;
+    }
+    .service-buttons a {
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+}
