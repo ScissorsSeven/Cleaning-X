@@ -1,9 +1,9 @@
 * {
     padding: 0;
     margin: 0;
-    text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 body {
@@ -11,25 +11,23 @@ body {
 }
 
 .nav-item {
-    padding: 11px;
-
+    padding: 10px;
 }
 .nav-link {
     color: #000;
-
 }
 .nav-link:hover {
-    transition: 0.5;
-    color: blue;
+    color: #0d6efd;
+    transition: 0.4s;
 }
-.card-link {
+.cart-link {
     color: #000;
 }
-.service-image-title {
+.service-img-title {
     padding-top: 20px;
     font-weight: 600;
 }
-.service-image-subtitle {
+.service-img-subtitle {
     color: gray;
 }
 .service-subtitle {
