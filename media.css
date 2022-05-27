@@ -8,4 +8,14 @@
     .service-buttons a {
         font-size: 12px;
     }
+    .meme > iframe {
+        width: 100%;
+    }
+    .about-title {
+        width: 100%;
+        text-align: center;
+    }
+    .about-btn {
+        margin-top: 1rem;
+    }
 }

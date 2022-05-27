@@ -33,3 +33,22 @@ body {
 .service-subtitle {
     color: gray;
 }
+.meme > iframe {
+    width: 1012px;
+    height: 570px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.video-count-subtitle {
+    color: gray;
+}
+.about-title {
+    width: 475px;
+}
+h1 {
+    font-size: 48px;
+}
+.about-card {
+    width: 18rem;
+}
