@@ -18,4 +18,14 @@
     .about-btn {
         margin-top: 1rem;
     }
+    .covid-title {
+        font-size: 40px;
+    }
+    .covid > .row {
+        margin: 10px;
+        padding: 10px;
+    }
+    .covid-info-btn .btn {
+        font-size: 11px;
+    }
 }

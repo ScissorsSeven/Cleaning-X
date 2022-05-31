@@ -52,3 +52,52 @@ h1 {
 .about-card {
     width: 18rem;
 }
+.covid-img {
+    width: 418px;
+    height: 576px;
+}
+.covid-top {
+    text-transform: uppercase;
+}
+.covid > .row {
+    background-color: #211F54;
+    border-radius: 20px;
+    color: #fff;
+}
+.covid-info-btn {
+    margin-bottom: 1rem;
+}
+.plan-img {
+    height: 540px;
+    width: 500px;
+}
+.text-secondary {
+    color: gray;
+}
+.tick-icon {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 24px;
+    background-color: #EDF5FF;
+    border: none;
+}
+.plan-list p {
+    font-weight: 700;
+}
+.com-status-subtitle-first {
+    color: gray;
+    font-size: 20px;
+}
+.com-status-subtitle-second {
+    color: gray;
+    font-size: 14px;
+}
+
+.com-status-main-count {
+    font-size: 50px;
+}
+
+.com-status-date-count {
+    color: gray;
+}
